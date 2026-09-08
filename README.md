@@ -316,11 +316,10 @@ Heart-Disease-Prediction/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/heart-disease-prediction.git
-
+git clone https://github.com/aparnakonathala-ai/HEART_DISEASE_DETECTION.git
 2. Navigate to the Project
 
-cd heart-disease-prediction
+cd HEART_DISEASE_DETECTION
 
 3. Install Required Libraries
 
@@ -334,7 +333,7 @@ jupyter notebook
 
 Open:
 
-heart_disease_prediction.ipynb
+HEART_DISEASE_PREDICTION.ipynb
 
 ---
 
@@ -452,8 +451,8 @@ Prediction
 
 Your Name
 
-- GitHub: "https://github.com/your-username"
-- LinkedIn: "https://linkedin.com/in/your-profile"
+- GitHub: https://github.com/aparnakonathala-ai
+- LinkedIn: https://www.linkedin.com/in/aparna-konathala
 
 ---
 
